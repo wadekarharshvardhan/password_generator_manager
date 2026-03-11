@@ -1,7 +1,7 @@
 # SecureVault – Advanced Password Generator and Manager
 
 <p align="left">
-<img src="https://drive.google.com/uc?export=view&id=1JnSfMfjNgiLYe30Uyg54Fe508CsyFRdv" width="160">
+<img src="https://drive.google.com/file/d/1Jrd1qOZrXkCqnMkIYGn9qeIG0l9PXqLN/view?usp=sharing" width="160">
 </p>
 
 <strong>Developed, Owned and Maintained by SynthBay Solutions</strong>
